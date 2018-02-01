@@ -1,16 +1,18 @@
-# awesome-codepath-ut [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of UT CodePath iOS student projects
+<p align="center">
+    <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <br>
+    A curated list of UT CodePath iOS student projects
+</p>
 
 ## UT Spring 2018
 ### Contents
 
-- [Prework - TipCalculator](#prework-tipcalculator)
+- [Prework - TipCalculator](#tipcalculator)
 
-#### Prework - TipCalculator
-| Owner | Demo |
-|:-----:|:----:|
-|[Saket Singh](https://github.com/saketksingh)<br>[Tipster](https://github.com/saketksingh/tipster)|<img src="https://i.imgur.com/nO15xjQ.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
-|[Rishi Talati](https://github.com/apprishiate)<br>[TipMoji](https://github.com/apprishiate/Tipmoji-App)|<img src="https://i.imgur.com/iMaU7TE.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
+#### TipCalculator
+| Owner | Repo | Demo |
+|:-----:|:----:|:----:|
+|[Saket Singh](https://github.com/saketksingh)|[Tipster](https://github.com/saketksingh/tipster)|<img src="https://i.imgur.com/nO15xjQ.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
+|[Rishi Talati](https://github.com/apprishiate)|[TipMoji](https://github.com/apprishiate/Tipmoji-App)|<img src="https://i.imgur.com/iMaU7TE.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
 
 ## License
 
