@@ -8,19 +8,24 @@
 - [Links](#links)
 - [Project Showcase](#project-showcase)
 
-#### Links
-##### CodePath
+### Links
+#### CodePath
 - [Course Homepage](courses.codepath.com)
 - [Discussions](discussions.codepath.com)
 - [README Workflow](./src/README-Workflow.md)
 
-##### External Links
+#### External Links
 - [CocoaPods](cocoapods.org)
 - [Awesome iOS](github.com/vsouza/awesome-ios)
 - [Awesome iOS UI](github.com/cjwirth/awesome-ios-ui)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-#### Project Showcase
-##### TipCalculator
+#### Setup
+- [Github Student Developer Pack](https://help.github.com/articles/applying-for-a-student-developer-pack/)
+- [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+
+### Project Showcase
+#### TipCalculator
 | Owner | Repo | Demo |
 |:-----:|:----:|:----:|
 |[Saket Singh](https://github.com/saketksingh)|[Tipster](https://github.com/saketksingh/tipster)|<img src="https://i.imgur.com/nO15xjQ.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
