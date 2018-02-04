@@ -1,14 +1,26 @@
 <p align="center">
     <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <br>
-    A curated list of UT CodePath iOS student projects
+    A curated list of UT CodePath iOS student projects, links, and paraphernalia
 </p>
 
 ## UT Spring 2018
 ### Contents
+- [Links](#links)
+- [Project Showcase](#project-showcase)
 
-- [Prework - TipCalculator](#tipcalculator)
+#### Links
+##### CodePath
+- [Course Homepage](courses.codepath.com)
+- [Discussions](discussions.codepath.com)
+- [README Workflow](./src/README-Workflow.md)
 
-#### TipCalculator
+##### External Links
+- [CocoaPods](cocoapods.org)
+- [Awesome iOS](github.com/vsouza/awesome-ios)
+- [Awesome iOS UI](github.com/cjwirth/awesome-ios-ui)
+
+#### Project Showcase
+##### TipCalculator
 | Owner | Repo | Demo |
 |:-----:|:----:|:----:|
 |[Saket Singh](https://github.com/saketksingh)|[Tipster](https://github.com/saketksingh/tipster)|<img src="https://i.imgur.com/nO15xjQ.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
