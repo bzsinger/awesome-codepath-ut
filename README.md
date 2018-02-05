@@ -3,28 +3,30 @@
     A curated list of UT CodePath iOS student projects, links, and paraphernalia
 </p>
 
-## UT Spring 2018
-### Contents
+# UT Spring 2018
+## Contents
 - [Links](#links)
 - [Project Showcase](#project-showcase)
 
 ### Links
 #### CodePath
-- [Course Homepage](courses.codepath.com)
-- [Discussions](discussions.codepath.com)
+- [Course Homepage](https://www.courses.codepath.com)
+- [Discussions](https://discussions.codepath.com)
 - [README Workflow](./src/README-Workflow.md)
 
 #### External Links
-- [CocoaPods](cocoapods.org)
-- [Awesome iOS](github.com/vsouza/awesome-ios)
-- [Awesome iOS UI](github.com/cjwirth/awesome-ios-ui)
+- [CocoaPods](https://cocoapods.org)
+- [Awesome iOS](https://github.com/vsouza/awesome-ios)
+- [Awesome iOS UI](https://github.com/cjwirth/awesome-ios-ui)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 #### Setup
 - [Github Student Developer Pack](https://help.github.com/articles/applying-for-a-student-developer-pack/)
 - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 
-### Project Showcase
+## Project Showcase
+- [TipCalculator](#tipcalculator)
+
 #### TipCalculator
 | Owner | Repo | Demo |
 |:-----:|:----:|:----:|
