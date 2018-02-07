@@ -6,11 +6,12 @@
 # UT Spring 2018
 ## Contents
 - [Links](#links)
+- [Slides](#slides)
 - [Project Showcase](#project-showcase)
 
 ### Links
 #### CodePath
-- [Course Homepage](https://www.courses.codepath.com)
+- [Course Homepage](https://courses.codepath.com)
 - [Discussions](https://discussions.codepath.com)
 - [README Workflow](./src/README-Workflow.md)
 
@@ -23,6 +24,11 @@
 #### Setup
 - [Github Student Developer Pack](https://help.github.com/articles/applying-for-a-student-developer-pack/)
 - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+
+## Slides
+| Week | Lecture | Lab |
+|:----:|:-------:|:---:|
+| Week 1| [Lecture](https://docs.google.com/presentation/d/10HF-T4uNhsdN8q8sPR-NFm5V8TTp22zc0OSovqfM334/edit?usp=sharing) | Lab |
 
 ## Project Showcase
 - [TipCalculator](#tipcalculator)
