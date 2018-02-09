@@ -28,7 +28,7 @@
 ## Slides
 | Week | Lecture | Lab |
 |:----:|:-------:|:---:|
-| Week 1| [Lecture](https://docs.google.com/presentation/d/10HF-T4uNhsdN8q8sPR-NFm5V8TTp22zc0OSovqfM334/edit?usp=sharing) | Lab |
+| Week 1| [Lecture](https://docs.google.com/presentation/d/10HF-T4uNhsdN8q8sPR-NFm5V8TTp22zc0OSovqfM334/edit?usp=sharing) | [Lab](https://docs.google.com/presentation/d/1NCk-o508VwRqR4Q6D2tPxyOzrwTy5FLvvbZh-U-CbOE/edit?usp=sharing) |
 
 ## Project Showcase
 - [TipCalculator](#tipcalculator)
