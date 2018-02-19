@@ -29,16 +29,29 @@
 | Week | Lecture | Lab |
 |:----:|:-------:|:---:|
 | Week 1 | [Lecture](https://docs.google.com/presentation/d/10HF-T4uNhsdN8q8sPR-NFm5V8TTp22zc0OSovqfM334/edit?usp=sharing) | [Lab](https://docs.google.com/presentation/d/1NCk-o508VwRqR4Q6D2tPxyOzrwTy5FLvvbZh-U-CbOE/edit?usp=sharing)
-| Week 2 | [Lecture](https://docs.google.com/presentation/d/17oBn3XG4OFO_A2t8mDwyNzlCDJXqGmId-RJIvHSJBGM/edit?usp=sharing) | Lab
+| Week 2 | [Lecture](https://docs.google.com/presentation/d/17oBn3XG4OFO_A2t8mDwyNzlCDJXqGmId-RJIvHSJBGM/edit?usp=sharing) | [Lab](https://docs.google.com/presentation/d/1c620bYoPRXtdczPHzWgFkMDxdkCpbRb_lrjPq2QgK3A/edit?usp=sharing) |
+| Week 3 | [Lecture](https://docs.google.com/presentation/d/1QU0X6u1ZUWAyznPjbizlFfX9XDZRZuv5kFAP4QfpMFw/edit?usp=sharing) | Lab |
 
 ## Project Showcase
-- [TipCalculator](#tipcalculator)
+- [TipCalculator](#tipcalculator) - Pre-Work
+- [Flix](#flix) - Assignment 1
+- [Tumblr](#tumblr) - Lab 1
 
 #### TipCalculator
 | Owner | Repo | Demo |
 |:-----:|:----:|:----:|
-|[Saket Singh](https://github.com/saketksingh)|[Tipster](https://github.com/saketksingh/tipster)|<img src="https://i.imgur.com/nO15xjQ.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
+|[Somi Singh](https://github.com/sks3)|[Tipster](https://github.com/sks3/tipster)|<img src="https://i.imgur.com/nO15xjQ.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
 |[Rishi Talati](https://github.com/apprishiate)|[TipMoji](https://github.com/apprishiate/Tipmoji-App)|<img src="https://i.imgur.com/iMaU7TE.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
+
+#### Flix
+| Owner | Repo | Demo |
+|:-----:|:----:|:----:|
+|[Tianyu Liang](https://github.com/Tianyu-Liang)|[Flix](https://github.com/Tianyu-Liang/Flix)|<img src="https://i.imgur.com/phTer45.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
+
+#### Tumblr
+| Owner | Repo | Demo |
+|:-----:|:----:|:----:|
+|[Somi Singh](https://github.com/sks3)|[PictaStream](https://github.com/sks3/pictastream)|<img src="https://i.imgur.com/Oq0Sx6i.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
 
 ## License
 
