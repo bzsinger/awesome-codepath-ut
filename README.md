@@ -30,7 +30,7 @@
 |:----:|:-------:|:---:|
 | Week 1 | [Lecture](https://docs.google.com/presentation/d/10HF-T4uNhsdN8q8sPR-NFm5V8TTp22zc0OSovqfM334/edit?usp=sharing) | [Lab](https://docs.google.com/presentation/d/1NCk-o508VwRqR4Q6D2tPxyOzrwTy5FLvvbZh-U-CbOE/edit?usp=sharing)
 | Week 2 | [Lecture](https://docs.google.com/presentation/d/17oBn3XG4OFO_A2t8mDwyNzlCDJXqGmId-RJIvHSJBGM/edit?usp=sharing) | [Lab](https://docs.google.com/presentation/d/1c620bYoPRXtdczPHzWgFkMDxdkCpbRb_lrjPq2QgK3A/edit?usp=sharing) |
-| Week 3 | [Lecture](https://docs.google.com/presentation/d/1QU0X6u1ZUWAyznPjbizlFfX9XDZRZuv5kFAP4QfpMFw/edit?usp=sharing) | Lab |
+| Week 3 | [Lecture](https://docs.google.com/presentation/d/1QU0X6u1ZUWAyznPjbizlFfX9XDZRZuv5kFAP4QfpMFw/edit?usp=sharing) | [Lab](https://docs.google.com/presentation/d/1goQnYsApp6M3VrfW2iYJUrHi_BWwpWv2Y39rQl9d7s8/edit?usp=sharing) |
 
 ## Project Showcase
 - [TipCalculator](#tipcalculator) - Pre-Work
