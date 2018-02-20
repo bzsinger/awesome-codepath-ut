@@ -51,7 +51,7 @@
 #### Tumblr
 | Owner | Repo | Demo |
 |:-----:|:----:|:----:|
-|[Somi Singh](https://github.com/sks3)|[PictaStream](https://github.com/sks3/pictastream)|<img src="https://i.imgur.com/Oq0Sx6i.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
+|[Somi Singh](https://github.com/sks3)|[PictaStream](https://github.com/sks3/pictastream)|<img src="https://i.imgur.com/zIFtJRr.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
 
 ## License
 
