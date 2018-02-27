@@ -31,11 +31,14 @@
 | Week 1 | [Lecture](https://docs.google.com/presentation/d/10HF-T4uNhsdN8q8sPR-NFm5V8TTp22zc0OSovqfM334/edit?usp=sharing) | [Lab](https://docs.google.com/presentation/d/1NCk-o508VwRqR4Q6D2tPxyOzrwTy5FLvvbZh-U-CbOE/edit?usp=sharing)
 | Week 2 | [Lecture](https://docs.google.com/presentation/d/17oBn3XG4OFO_A2t8mDwyNzlCDJXqGmId-RJIvHSJBGM/edit?usp=sharing) | [Lab](https://docs.google.com/presentation/d/1c620bYoPRXtdczPHzWgFkMDxdkCpbRb_lrjPq2QgK3A/edit?usp=sharing) |
 | Week 3 | [Lecture](https://docs.google.com/presentation/d/1QU0X6u1ZUWAyznPjbizlFfX9XDZRZuv5kFAP4QfpMFw/edit?usp=sharing) | [Lab](https://docs.google.com/presentation/d/1goQnYsApp6M3VrfW2iYJUrHi_BWwpWv2Y39rQl9d7s8/edit?usp=sharing) |
+| Week 4 | [Lecture](https://docs.google.com/presentation/d/1QyL9QekgxPUPk1jZ8b_DYdsgCWS3NzRNAUwJhiRCxTg/edit?usp=sharing) | [Lab](https://docs.google.com/presentation/d/1VGA-7YI0BqKu98pWN2_CeKG6HflugZUfmd0B-YJM9kg/edit?usp=sharing) |
 
 ## Project Showcase
 - [TipCalculator](#tipcalculator) - Pre-Work
 - [Flix](#flix) - Assignment 1
 - [Tumblr](#tumblr) - Lab 1
+- [Flix 2.0](#flix2.0) - Assignment 2
+- [Flix 3.0](#flix3.0) - Lab 2
 
 #### TipCalculator
 | Owner | Repo | Demo |
@@ -52,6 +55,16 @@
 | Owner | Repo | Demo |
 |:-----:|:----:|:----:|
 |[Somi Singh](https://github.com/sks3)|[PictaStream](https://github.com/sks3/pictastream)|<img src="https://i.imgur.com/zIFtJRr.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
+
+#### Flix2.0
+| Owner | Repo | Demo |
+|:-----:|:----:|:----:|
+|[Somi Singh](https://github.com/sks3)|[CinemaBoss](https://github.com/sks3/cinemaboss)|<img src="https://i.imgur.com/Oawy1Wx.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
+
+#### Flix3.0
+| Owner | Repo | Demo |
+|:-----:|:----:|:----:|
+|[Henry Vuong](https://github.com/mistersquiish)|[Flix](https://github.com/mistersquiish/FlixMovieApp/blob/master/README3.md)|<img src="https://camo.githubusercontent.com/c296e2fd8ecef0dd1d66846e474fa50b44c13a82/68747470733a2f2f692e696d6775722e636f6d2f543676773437412e676966" title="Video Walkthrough" alt="Video Walkthrough"/>|
 
 ## License
 
