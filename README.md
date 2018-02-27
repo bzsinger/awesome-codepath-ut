@@ -37,8 +37,8 @@
 - [TipCalculator](#tipcalculator) - Pre-Work
 - [Flix](#flix) - Assignment 1
 - [Tumblr](#tumblr) - Lab 1
-- [Flix 2.0](#flix2.0) - Assignment 2
-- [Flix 3.0](#flix3.0) - Lab 2
+- [Flix 2.0](#flix20) - Assignment 2
+- [Flix 3.0](#flix30) - Lab 2
 
 #### TipCalculator
 | Owner | Repo | Demo |
@@ -56,12 +56,12 @@
 |:-----:|:----:|:----:|
 |[Somi Singh](https://github.com/sks3)|[PictaStream](https://github.com/sks3/pictastream)|<img src="https://i.imgur.com/zIFtJRr.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
 
-#### Flix2.0
+#### Flix 2.0
 | Owner | Repo | Demo |
 |:-----:|:----:|:----:|
-|[Somi Singh](https://github.com/sks3)|[CinemaBoss](https://github.com/sks3/cinemaboss)|<img src="https://i.imgur.com/Oawy1Wx.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
+|[Somi Singh](https://github.com/sks3)|[CinemaBoss](https://github.com/sks3/cinemaboss)|<img src="https://i.imgur.com/uY82gyT.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
 
-#### Flix3.0
+#### Flix 3.0
 | Owner | Repo | Demo |
 |:-----:|:----:|:----:|
 |[Henry Vuong](https://github.com/mistersquiish)|[Flix](https://github.com/mistersquiish/FlixMovieApp/blob/master/README3.md)|<img src="https://camo.githubusercontent.com/c296e2fd8ecef0dd1d66846e474fa50b44c13a82/68747470733a2f2f692e696d6775722e636f6d2f543676773437412e676966" title="Video Walkthrough" alt="Video Walkthrough"/>|
