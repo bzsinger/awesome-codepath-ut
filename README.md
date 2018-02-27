@@ -37,8 +37,8 @@
 - [TipCalculator](#tipcalculator) - Pre-Work
 - [Flix](#flix) - Assignment 1
 - [Tumblr](#tumblr) - Lab 1
-- [Flix 2.0](#flix20) - Assignment 2
-- [Flix 3.0](#flix30) - Lab 2
+- [Flix 2.0](#flix-20) - Assignment 2
+- [Flix 3.0](#flix-30) - Lab 2
 
 #### TipCalculator
 | Owner | Repo | Demo |
@@ -59,7 +59,7 @@
 #### Flix 2.0
 | Owner | Repo | Demo |
 |:-----:|:----:|:----:|
-|[Somi Singh](https://github.com/sks3)|[CinemaBoss](https://github.com/sks3/cinemaboss)|<img src="https://i.imgur.com/uY82gyT.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
+|[Somi Singh](https://github.com/sks3)|[CinemaBoss](https://github.com/sks3/cinemaboss)|<img src="https://i.imgur.com/4lS0RMp.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
 
 #### Flix 3.0
 | Owner | Repo | Demo |
