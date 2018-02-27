@@ -59,7 +59,7 @@
 #### Flix 2.0
 | Owner | Repo | Demo |
 |:-----:|:----:|:----:|
-|[Somi Singh](https://github.com/sks3)|[CinemaBoss](https://github.com/sks3/cinemaboss)|<img src="https://i.imgur.com/4lS0RMp.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
+|[Somi Singh](https://github.com/sks3)|[CinemaBoss](https://github.com/sks3/cinemaboss)|<img src="https://i.imgur.com/MPHnDUg.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
 
 #### Flix 3.0
 | Owner | Repo | Demo |
