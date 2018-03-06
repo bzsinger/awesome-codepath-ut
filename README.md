@@ -32,6 +32,7 @@
 | Week 2 | [Lecture](https://docs.google.com/presentation/d/17oBn3XG4OFO_A2t8mDwyNzlCDJXqGmId-RJIvHSJBGM/edit?usp=sharing) | [Lab](https://docs.google.com/presentation/d/1c620bYoPRXtdczPHzWgFkMDxdkCpbRb_lrjPq2QgK3A/edit?usp=sharing) |
 | Week 3 | [Lecture](https://docs.google.com/presentation/d/1QU0X6u1ZUWAyznPjbizlFfX9XDZRZuv5kFAP4QfpMFw/edit?usp=sharing) | [Lab](https://docs.google.com/presentation/d/1goQnYsApp6M3VrfW2iYJUrHi_BWwpWv2Y39rQl9d7s8/edit?usp=sharing) |
 | Week 4 | [Lecture](https://docs.google.com/presentation/d/1QyL9QekgxPUPk1jZ8b_DYdsgCWS3NzRNAUwJhiRCxTg/edit?usp=sharing) | [Lab](https://docs.google.com/presentation/d/1VGA-7YI0BqKu98pWN2_CeKG6HflugZUfmd0B-YJM9kg/edit?usp=sharing) |
+| Week 5 | [Lecture](https://docs.google.com/presentation/d/1hmMOpCtod0FxbGhueuszmsX-xE5VAD8RhTeQj8TQnxw/edit?usp=sharing) | [Lab](https://docs.google.com/presentation/d/1VGA-7YI0BqKu98pWN2_CeKG6HflugZUfmd0B-YJM9kg/edit?usp=sharing)
 
 ## Project Showcase
 - [TipCalculator](#tipcalculator) - Pre-Work
