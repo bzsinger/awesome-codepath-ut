@@ -38,33 +38,45 @@
 - [Flix](#flix) - Assignment 1
 - [Tumblr](#tumblr) - Lab 1
 - [Flix 2.0](#flix-20) - Assignment 2
-- [Flix 3.0](#flix-30) - Lab 2
+- [Tumblr 2.0](#tumblr-20) - Lab 2
+- [Yelp](#yelp) - Assignment 3
+- [Flix 3.0](#flix-30) - Lab 3
 
 #### TipCalculator
 | Owner | Repo | Demo |
 |:-----:|:----:|:----:|
-|[Somi Singh](https://github.com/sks3)|[Tipster](https://github.com/sks3/tipster)|<img src="https://i.imgur.com/nO15xjQ.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
-|[Rishi Talati](https://github.com/apprishiate)|[TipMoji](https://github.com/apprishiate/Tipmoji-App)|<img src="https://i.imgur.com/iMaU7TE.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
+|[Somi Singh](https://github.com/sks3)|[Tipster](https://github.com/sks3/tipster)|![Tipster Video Walkthrough](./src/gifs/prework-tipster.gif)|
+|[Rishi Talati](https://github.com/apprishiate)|[TipMoji](https://github.com/apprishiate/Tipmoji-App)|![TipMoji Video Walkthrough](./src/gifs/prework-tipmoji.gif)|
 
 #### Flix
 | Owner | Repo | Demo |
 |:-----:|:----:|:----:|
-|[Tianyu Liang](https://github.com/Tianyu-Liang)|[Flix](https://github.com/Tianyu-Liang/Flix)|<img src="https://i.imgur.com/phTer45.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
+|[Tianyu Liang](https://github.com/Tianyu-Liang)|[Flix](https://github.com/Tianyu-Liang/Flix)|![Flix Video Walkthrough](./src/gifs/assignment1-flix.gif)|
 
 #### Tumblr
 | Owner | Repo | Demo |
 |:-----:|:----:|:----:|
-|[Somi Singh](https://github.com/sks3)|[PictaStream](https://github.com/sks3/pictastream)|<img src="https://i.imgur.com/zIFtJRr.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
+|[Somi Singh](https://github.com/sks3)|[PictaStream](https://github.com/sks3/pictastream)|![PictaStream Video Walkthrough](./src/gifs/lab1-pictastream.gif)|
 
 #### Flix 2.0
 | Owner | Repo | Demo |
 |:-----:|:----:|:----:|
-|[Somi Singh](https://github.com/sks3)|[CinemaBoss](https://github.com/sks3/cinemaboss)|<img src="https://i.imgur.com/MPHnDUg.gif" title="Video Walkthrough" alt="Video Walkthrough"/>|
+|[Somi Singh](https://github.com/sks3)|[CinemaBoss](https://github.com/sks3/cinemaboss)|![CinemaBoss Video Walkthrough](./src/gifs/assignment2-cinemaboss.gif)|
+
+#### Tumblr 2.0
+| Owner | Repo | Demo |
+|:-----:|:----:|:----:|
+|[Somi Singh](https://github.com/sks3)|[PictaStream](https://github.com/sks3/pictastream)|![PictaStream Video Walkthrough](./src/gifs/lab2-pictastream.gif)|
+
+#### Yelp
+| Owner | Repo | Demo |
+|:-----:|:----:|:----:|
+|[Fei Zhang](https://github.com/chloe415)|[Yelp](https://github.com/chloe415/Yelp)|![Yelp Video Walkthrough](./src/gifs/assignment3-yelp.gif)|
 
 #### Flix 3.0
 | Owner | Repo | Demo |
 |:-----:|:----:|:----:|
-|[Henry Vuong](https://github.com/mistersquiish)|[Flix](https://github.com/mistersquiish/FlixMovieApp/blob/master/README3.md)|<img src="https://camo.githubusercontent.com/c296e2fd8ecef0dd1d66846e474fa50b44c13a82/68747470733a2f2f692e696d6775722e636f6d2f543676773437412e676966" title="Video Walkthrough" alt="Video Walkthrough"/>|
+|[Henry Vuong](https://github.com/mistersquiish)|[Flix](https://github.com/mistersquiish/FlixMovieApp/blob/master/README3.md)|![FlixMovieApp Video Walkthrough](./src/gifs/lab3-flixmovieapp.gif)|
 
 ## License
 
