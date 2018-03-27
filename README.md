@@ -35,13 +35,21 @@
 | Week 5 | [Lecture](https://docs.google.com/presentation/d/1hmMOpCtod0FxbGhueuszmsX-xE5VAD8RhTeQj8TQnxw/edit?usp=sharing) | [Lab](https://docs.google.com/presentation/d/1VGA-7YI0BqKu98pWN2_CeKG6HflugZUfmd0B-YJM9kg/edit?usp=sharing)
 
 ## Project Showcase
-- [TipCalculator](#tipcalculator) - Pre-Work
-- [Flix](#flix) - Assignment 1
-- [Tumblr](#tumblr) - Lab 1
-- [Flix 2.0](#flix-20) - Assignment 2
-- [Tumblr 2.0](#tumblr-20) - Lab 2
-- [Yelp](#yelp) - Assignment 3
-- [Flix 3.0](#flix-30) - Lab 3
+| Week | Lab/Assignment |Project |
+|:----:|:--------------:|:------:|
+| Pre-Work | Assignment | [TipCalculator](#tipcalculator) |
+| 1 | Assignment | [Flix](#flix) |
+| 1 | Lab | [Tumblr](#tumblr) |
+| 2 | Assignment | [Flix 2.0](#flix-20) |
+| 2 | Lab | [Tumblr 2.0](#tumblr-20) |
+| 3 | Assignment | [Yelp](#yelp) |
+| 3 | Lab | [Flix 3.0](#flix-30) |
+| 4 | Assignment | [Instagram](#instagram) |
+| 4 | Lab | [ParseChat](#parsechat) |
+| 5 | Assignment | [Twitter](#twitter) |
+| 5 | Lab | [Flix 4.0](#flix-40) |
+
+---
 
 #### TipCalculator
 | Owner | Repo | Demo |
@@ -78,6 +86,26 @@
 | Owner | Repo | Demo |
 |:-----:|:----:|:----:|
 |[Henry Vuong](https://github.com/mistersquiish)|[Flix](https://github.com/mistersquiish/FlixMovieApp/blob/master/README3.md)|![FlixMovieApp Video Walkthrough](./src/gifs/lab3-flixmovieapp.gif)|
+
+#### Instagram
+| Owner | Repo | Demo |
+|:-----:|:----:|:----:|
+|[Henry Vuong](https://github.com/mistersquiish)|[Instagram](https://github.com/mistersquiish/Instagram)|![Instagram Video Walkthrough](./src/gifs/assignment4-instagram.gif)|
+
+#### ParseChat
+| Owner | Repo | Demo |
+|:-----:|:----:|:----:|
+|[Tianyu Liang](https://github.com/Tianyu-Liang)|[ParseChat](https://github.com/Tianyu-Liang/ParseChat)|![ParseChat Video Walkthrough](./src/gifs/lab4-parsechat.gif)|
+
+#### Twitter
+| Owner | Repo | Demo |
+|:-----:|:----:|:----:|
+|[Somi Singh](https://github.com/sks3)|[Twerti](https://github.com/sks3/twerti)|![Twerti Video Walkthrough](./src/gifs/assignment5-twerti.gif)|
+
+#### Flix 4.0
+| Owner | Repo | Demo |
+|:-----:|:----:|:----:|
+|[Tianyu Liang](https://github.com/Tianyu-Liang)|[Flix](https://github.com/Tianyu-Liang/Flix)|![Flix Video Walkthrough](./src/gifs/lab5-flix.gif)|
 
 ## License
 
