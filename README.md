@@ -29,9 +29,9 @@
 ## Slides
 | Week | Unit | Lecture |
 |:----:|:----:|:-------:|
-| Unit 0/1 | [Lecture](https://docs.google.com/presentation/d/10t2j4NmOawlYy7bUWE0bGsuacl0V8FCSbLN2UTTlPNA/edit?usp=sharing)
-| Unit 1| [Lecture] (https://docs.google.com/presentation/d/1o5LbUP1V5VmZ2tkkZpjA6-c3z5gSdHFPrnA-0KFlJTE/edit?usp=sharing)
-| Unit 2 | [Lecture](https://docs.google.com/presentation/d/1hYiLbG8bdgNXT50S3I-YvCWNiEV71Evg_ZKfdXA-ixM/edit?usp=sharing)
+|Week 1 | Unit 0/1 | [Lecture](https://docs.google.com/presentation/d/10t2j4NmOawlYy7bUWE0bGsuacl0V8FCSbLN2UTTlPNA/edit?usp=sharing)
+|Week 2| Unit 1| [Lecture](https://docs.google.com/presentation/d/1o5LbUP1V5VmZ2tkkZpjA6-c3z5gSdHFPrnA-0KFlJTE/edit?usp=sharing)
+|Week 3| Unit 2 | [Lecture](https://docs.google.com/presentation/d/1hYiLbG8bdgNXT50S3I-YvCWNiEV71Evg_ZKfdXA-ixM/edit?usp=sharing)
 
 
 ## Project Showcase
