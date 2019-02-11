@@ -27,7 +27,7 @@
 - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 
 ## Slides
-| Week | Unit | Lecture |
+| Week | Unit | Slides |
 |:----:|:----:|:-------:|
 |Week 1 | Unit 0/1 | [Lecture](https://docs.google.com/presentation/d/10t2j4NmOawlYy7bUWE0bGsuacl0V8FCSbLN2UTTlPNA/edit?usp=sharing)
 |Week 2| Unit 1| [Lecture](https://docs.google.com/presentation/d/1o5LbUP1V5VmZ2tkkZpjA6-c3z5gSdHFPrnA-0KFlJTE/edit?usp=sharing)
@@ -38,7 +38,7 @@
 | Week | Lab/Assignment |Project |
 |:----:|:--------------:|:------:|
 | Pre-Work | Assignment | [TipCalculator](#tipcalculator) |
-| 1 | Assignment | [Flix](#flix) |
+| 1/2 | Assignment | [Flix](#flix) |
 
 ---
 
