@@ -8,7 +8,7 @@
 - [Links](#links)
 - [Slides](#slides)
 - [Project Showcase](#project-showcase)
-- [Class Information](#class-information)
+- [Course Information](#course-information)
 
 ### Links
 #### CodePath
@@ -27,9 +27,10 @@
 - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 
 ## Slides
-| Unit | Lecture |
-|:----:|:-------:|
+| Week | Unit | Lecture |
+|:----:|:----:|:-------:|
 | Unit 0/1 | [Lecture](https://docs.google.com/presentation/d/10t2j4NmOawlYy7bUWE0bGsuacl0V8FCSbLN2UTTlPNA/edit?usp=sharing)
+| Unit 1| [Lecture] (https://docs.google.com/presentation/d/1o5LbUP1V5VmZ2tkkZpjA6-c3z5gSdHFPrnA-0KFlJTE/edit?usp=sharing)
 | Unit 2 | [Lecture](https://docs.google.com/presentation/d/1hYiLbG8bdgNXT50S3I-YvCWNiEV71Evg_ZKfdXA-ixM/edit?usp=sharing)
 
 
