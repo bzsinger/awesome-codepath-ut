@@ -32,6 +32,7 @@
 |Week 1 | Unit 0/1 | [Lecture](https://docs.google.com/presentation/d/10t2j4NmOawlYy7bUWE0bGsuacl0V8FCSbLN2UTTlPNA/edit?usp=sharing)
 |Week 2| Unit 1| [Lecture](https://docs.google.com/presentation/d/1o5LbUP1V5VmZ2tkkZpjA6-c3z5gSdHFPrnA-0KFlJTE/edit?usp=sharing)
 |Week 3| Unit 2 | [Lecture](https://docs.google.com/presentation/d/1hYiLbG8bdgNXT50S3I-YvCWNiEV71Evg_ZKfdXA-ixM/edit?usp=sharing)
+|Week 4| Unit 3 | [Lecture](https://docs.google.com/presentation/d/1hvkI3xVHM1Iu_Ms9rjoXRt0wk5M7qzPtRG7bnS0BXWs/edit?usp=sharing)
 
 
 ## Project Showcase
@@ -39,18 +40,24 @@
 |:----:|:--------------:|:------:|
 | Pre-Work | Assignment | [TipCalculator](#tipcalculator) |
 | 1/2 | Assignment | [Flix](#flix) |
+| 3 | Assignment | [Flix II](#flix-ii) |
 
 ---
 
 #### TipCalculator
 | Owner | Repo | Demo |
 |:-----:|:----:|:----:|
-|[Shayna Patel](https://github.com/shaynahpatel)|[Tip Calc](https://github.com/shaynahpatel/CodePath-tip-calc)|![Tip Calc Walkthrough](./src/gifs/prework-tip-calc.gif)|
+|[Shayna Patel](https://github.com/shaynahpatel)|[Tipper](https://github.com/shaynahpatel/CodePath-tip-calc)|![Tipper Walkthrough](./src/gifs/prework-tipper.gif)|
 
 #### Flix
 | Owner | Repo | Demo |
 |:-----:|:----:|:----:|
 |[Taher Naeem](https://github.com/tahern52)|[Flix](https://github.com/tahern52/Flix)|![Flix Video Walkthrough](./src/gifs/assignment1-flix1.gif)|
+
+#### Flix II
+| Owner | Repo | Demo |
+|:-----:|:----:|:----:|
+|[Yash Kakodkar](https://github.com/YashKakodkar)|[Flixter](https://github.com/YashKakodkar/Flixster)|![Flix Video Walkthrough](./src/gifs/assignment2-flix2.gif)|
 
 ### Course Information
 #### Meeting Times
