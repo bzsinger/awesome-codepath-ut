@@ -21,7 +21,6 @@
 - [Awesome iOS](https://github.com/vsouza/awesome-ios)
 - [Awesome iOS UI](https://github.com/cjwirth/awesome-ios-ui)
 - [UI Icons](https://thenounproject.com/)
-
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 #### Setup
