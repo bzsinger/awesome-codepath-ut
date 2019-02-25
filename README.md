@@ -25,6 +25,7 @@
 #### Setup
 - [Github Student Developer Pack](https://help.github.com/articles/applying-for-a-student-developer-pack/)
 - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+- [Learn Git Branching](https://learngitbranching.js.org/)
 
 ## Slides
 | Week | Unit | Slides |
@@ -33,6 +34,7 @@
 |Week 2| Unit 1| [Lecture](https://docs.google.com/presentation/d/1o5LbUP1V5VmZ2tkkZpjA6-c3z5gSdHFPrnA-0KFlJTE/edit?usp=sharing)
 |Week 3| Unit 2 | [Lecture](https://docs.google.com/presentation/d/1hYiLbG8bdgNXT50S3I-YvCWNiEV71Evg_ZKfdXA-ixM/edit?usp=sharing)
 |Week 4| Unit 3 | [Lecture](https://docs.google.com/presentation/d/1hvkI3xVHM1Iu_Ms9rjoXRt0wk5M7qzPtRG7bnS0BXWs/edit?usp=sharing)
+|Week 5| Unit 4 | [Lecture](https://docs.google.com/presentation/d/1kIQ8o3w9DYjRoCZUSrqTUbW6mj9oLc12dchSszRqHtY/edit?usp=sharing)
 
 
 ## Project Showcase
@@ -41,6 +43,7 @@
 | Pre-Work | Assignment | [TipCalculator](#tipcalculator) |
 | 1/2 | Assignment | [Flix](#flix) |
 | 3 | Assignment | [Flix II](#flix-ii) |
+| 4 | Assignment | [Twitter](#twitter) |
 
 ---
 
@@ -59,15 +62,21 @@
 |:-----:|:----:|:----:|
 |[Yash Kakodkar](https://github.com/YashKakodkar)|[Flixter](https://github.com/YashKakodkar/Flixster)|![Flix Video Walkthrough](./src/gifs/assignment2-flix2.gif)|
 
+#### Twitter
+| Owner | Repo | Demo |
+|:-----:|:----:|:----:|
+|[Amanda Jackson](https://github.com/amandajackson21)|[Twitter](https://github.com/amandajackson21/Twitter)|![Twitter Video Walkthrough](./src/gifs/assignment3-twitter.gif)|
+
 ### Course Information
 #### Meeting Times
-**Lecture:** RLP 1.102, 5-7PM <br>
-**Lab:** CBA 4.344, 5-7PM
+- **Lecture:** RLP 1.102, 5-7PM <br>
+- **Lab:** CBA 4.344, 5-7PM
 
 #### TAs
-[Henry Vuong](https://github.com/mistersquiish) (Lead TA) <br>
-[Benjamin Singer](https://github.com/bzsinger) <br> [Somi Singh](https://github.com/sks3) <br>
-[Will Xu](https://github.com/williamx98)
+- [Henry Vuong](https://github.com/mistersquiish) (Lead TA)
+- [Benjamin Singer](https://github.com/bzsinger)
+- [Somi Singh](https://github.com/sks3)
+- [Will Xu](https://github.com/williamx98)
 
 ## License
 
