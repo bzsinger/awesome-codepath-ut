@@ -35,6 +35,7 @@
 |Week 3| Unit 2 | [Lecture](https://docs.google.com/presentation/d/1hYiLbG8bdgNXT50S3I-YvCWNiEV71Evg_ZKfdXA-ixM/edit?usp=sharing)
 |Week 4| Unit 3 | [Lecture](https://docs.google.com/presentation/d/1hvkI3xVHM1Iu_Ms9rjoXRt0wk5M7qzPtRG7bnS0BXWs/edit?usp=sharing)
 |Week 5| Unit 4 | [Lecture](https://docs.google.com/presentation/d/1kIQ8o3w9DYjRoCZUSrqTUbW6mj9oLc12dchSszRqHtY/edit?usp=sharing)
+|Week 6| Unit 5 | [Lecture](https://docs.google.com/presentation/d/19stjqBpl1kF-DGo9ZZHmGv5fmcrHJ1sY1ZWpR1RNjQ0/edit?usp=sharing)
 
 
 ## Project Showcase
@@ -44,6 +45,7 @@
 | 1/2 | Assignment | [Flix](#flix) |
 | 3 | Assignment | [Flix II](#flix-ii) |
 | 4 | Assignment | [Twitter](#twitter) |
+| 5 | Assignment | [Twitter II](#twitter-ii) |
 
 ---
 
@@ -67,9 +69,14 @@
 |:-----:|:----:|:----:|
 |[Amanda Jackson](https://github.com/amandajackson21)|[Twitter](https://github.com/amandajackson21/Twitter)|![Twitter Video Walkthrough](./src/gifs/assignment3-twitter.gif)|
 
+#### Twitter II
+| Owner | Repo | Demo |
+|:-----:|:----:|:----:|
+|[Yash Kakodkar](https://github.com/YashKakodkar)|[Twitter](https://github.com/YashKakodkar/Twitter-Client)|![Twitter Video Walkthrough](./src/gifs/assignment4-twitter.gif)|
+
 ### Course Information
 #### Meeting Times
-- **Lecture:** RLP 1.102, 5-7PM <br>
+- **Lecture:** RLP 1.102, 5-7PM
 - **Lab:** CBA 4.344, 5-7PM
 
 #### TAs
