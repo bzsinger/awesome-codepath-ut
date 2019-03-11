@@ -37,6 +37,7 @@
 |Week 4| Unit 3 | [Lecture](https://docs.google.com/presentation/d/1hvkI3xVHM1Iu_Ms9rjoXRt0wk5M7qzPtRG7bnS0BXWs/edit?usp=sharing)
 |Week 5| Unit 4 | [Lecture](https://docs.google.com/presentation/d/1kIQ8o3w9DYjRoCZUSrqTUbW6mj9oLc12dchSszRqHtY/edit?usp=sharing)
 |Week 6| Unit 5 | [Lecture](https://docs.google.com/presentation/d/19stjqBpl1kF-DGo9ZZHmGv5fmcrHJ1sY1ZWpR1RNjQ0/edit?usp=sharing)
+|Week 7| Unit 6 | [Lecture](https://docs.google.com/presentation/d/1Oxbiet3SPm_6xEChBmvNx44hv8PWr72ZKa3_Inpu6Yg/edit?usp=sharing)
 
 
 ## Project Showcase
@@ -47,6 +48,7 @@
 | 3 | Assignment | [Flix II](#flix-ii) |
 | 4 | Assignment | [Twitter](#twitter) |
 | 5 | Assignment | [Twitter II](#twitter-ii) |
+| 5 | Assignment | [Instagram](#instagram) |
 
 ---
 
@@ -68,12 +70,17 @@
 #### Twitter
 | Owner | Repo | Demo |
 |:-----:|:----:|:----:|
-|[Amanda Jackson](https://github.com/amandajackson21)|[Twitter](https://github.com/amandajackson21/Twitter)|![Twitter Video Walkthrough](./src/gifs/assignment3-twitter.gif)|
+|[Amanda Jackson](https://github.com/amandajackson21)|[Twitter](https://github.com/amandajackson21/Twitter)|![Twitter Video Walkthrough](./src/gifs/assignment3-twitter1.gif)|
 
 #### Twitter II
 | Owner | Repo | Demo |
 |:-----:|:----:|:----:|
-|[Yash Kakodkar](https://github.com/YashKakodkar)|[Twitter](https://github.com/YashKakodkar/Twitter-Client)|![Twitter Video Walkthrough](./src/gifs/assignment4-twitter.gif)|
+|[Yash Kakodkar](https://github.com/YashKakodkar)|[Twitter](https://github.com/YashKakodkar/Twitter-Client)|![Twitter Video Walkthrough](./src/gifs/assignment4-twitter2.gif)|
+
+#### Instagram
+| Owner | Repo | Demo |
+|:-----:|:----:|:----:|
+|[Shriprama Rao](https://github.com/shriprama)|[Parstagram](https://github.com/shriprama/parstagram/)|![Instagram Video Walkthrough](./src/gifs/assignment5-instagram1.gif)|
 
 ### Course Information
 #### Meeting Times
