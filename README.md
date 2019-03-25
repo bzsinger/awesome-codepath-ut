@@ -38,6 +38,7 @@
 |Week 5| Unit 4 | [Lecture](https://docs.google.com/presentation/d/1kIQ8o3w9DYjRoCZUSrqTUbW6mj9oLc12dchSszRqHtY/edit?usp=sharing)
 |Week 6| Unit 5 | [Lecture](https://docs.google.com/presentation/d/19stjqBpl1kF-DGo9ZZHmGv5fmcrHJ1sY1ZWpR1RNjQ0/edit?usp=sharing)
 |Week 7| Unit 6 | [Lecture](https://docs.google.com/presentation/d/1Oxbiet3SPm_6xEChBmvNx44hv8PWr72ZKa3_Inpu6Yg/edit?usp=sharing)
+|Week 8| Unit 7 | [Lecture](https://docs.google.com/presentation/d/1wmDy1rcloG9-Vvn6L1txZ0K5Yc3cyZJxDp6QacCsBk8/edit?usp=sharing)
 
 
 ## Project Showcase
@@ -48,7 +49,8 @@
 | 3 | Assignment | [Flix II](#flix-ii) |
 | 4 | Assignment | [Twitter](#twitter) |
 | 5 | Assignment | [Twitter II](#twitter-ii) |
-| 5 | Assignment | [Instagram](#instagram) |
+| 6 | Assignment | [Instagram](#instagram) |
+| 7 | Assignment | [Instagram II](#instagram-ii) |
 
 ---
 
@@ -81,6 +83,11 @@
 | Owner | Repo | Demo |
 |:-----:|:----:|:----:|
 |[Shriprama Rao](https://github.com/shriprama)|[Parstagram](https://github.com/shriprama/parstagram/)|![Instagram Video Walkthrough](./src/gifs/assignment5-instagram1.gif)|
+
+#### Instagram II
+| Owner | Repo | Demo |
+|:-----:|:----:|:----:|
+|[Yash Kakodkar](https://github.com/YashKakodkar)|[Parstagram](https://github.com/YashKakodkar/Parstagram)|![Parstagram Video Walkthrough](./src/gifs/assignment6-instagram2.gif)|
 
 ### Course Information
 #### Meeting Times
