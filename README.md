@@ -39,6 +39,7 @@
 |Week 6| Unit 5 | [Lecture](https://docs.google.com/presentation/d/19stjqBpl1kF-DGo9ZZHmGv5fmcrHJ1sY1ZWpR1RNjQ0/edit?usp=sharing)
 |Week 7| Unit 6 | [Lecture](https://docs.google.com/presentation/d/1Oxbiet3SPm_6xEChBmvNx44hv8PWr72ZKa3_Inpu6Yg/edit?usp=sharing)
 |Week 8| Unit 7 | [Lecture](https://docs.google.com/presentation/d/1wmDy1rcloG9-Vvn6L1txZ0K5Yc3cyZJxDp6QacCsBk8/edit?usp=sharing)
+|Week 9| Unit 8 | [Lecture](https://docs.google.com/presentation/d/10rHwCmMK5RR9Le6LQxuQSnQxPMCr9yft7gsz6bc59Pk/edit#slide=id.g4c1407d502_0_141)
 
 
 ## Project Showcase
