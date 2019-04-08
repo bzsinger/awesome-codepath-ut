@@ -40,6 +40,20 @@
 |Week 7| Unit 6 | [Lecture](https://docs.google.com/presentation/d/1Oxbiet3SPm_6xEChBmvNx44hv8PWr72ZKa3_Inpu6Yg/edit?usp=sharing)
 |Week 8| Unit 7 | [Lecture](https://docs.google.com/presentation/d/1wmDy1rcloG9-Vvn6L1txZ0K5Yc3cyZJxDp6QacCsBk8/edit?usp=sharing)
 |Week 9| Unit 8 | [Lecture](https://docs.google.com/presentation/d/10rHwCmMK5RR9Le6LQxuQSnQxPMCr9yft7gsz6bc59Pk/edit#slide=id.g4c1407d502_0_141)
+|Week 10| Unit 9 | [Lecture](https://docs.google.com/presentation/d/1Bs7RkO9wW7FOZ9AhnFVIvDYaJav7hJKZBLFa5wcOpHg/edit)
+
+## Group Projects
+|Group Name|Group Members|
+|:--------:|:-----------:|
+| Tripp | Rishi Talati, JD del Alamo, Mark Cheng |
+| [ParkSpace](https://github.com/codepath-group-2/ParkShare) | Saras Paudel, Michael Zetune, Jonathan Bautista |
+| Pic-n-Ship | Shakkhar Biswas, Hailey Cassidy, Amanda Jackson |
+| BurntOrange | Yangxinyu Xie, Maksat Zhazbayev, Ashley Bedford |
+| [Tempo](https://github.com/jasonstephen15/Tempo) | Jason Stephen, Joshua Iwe, Shriprama Rao |
+| [newsUT](https://github.com/newsut/newsUT) | Yash Kakodkar, Shawheen Attar, Akarsh Kumar |
+| [Blank Space](https://github.com/andrewhoang7/blankspace) | Andrew Hoang |
+
+
 
 
 ## Project Showcase
