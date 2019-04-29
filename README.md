@@ -42,19 +42,19 @@
 |Week 9| Unit 8 | [Lecture](https://docs.google.com/presentation/d/10rHwCmMK5RR9Le6LQxuQSnQxPMCr9yft7gsz6bc59Pk/edit#slide=id.g4c1407d502_0_141)
 |Week 10| Unit 9 | [Lecture](https://docs.google.com/presentation/d/1Bs7RkO9wW7FOZ9AhnFVIvDYaJav7hJKZBLFa5wcOpHg/edit)
 |Week 11| Unit 10| [Lecture](https://docs.google.com/presentation/d/1OOk-Nc9IDO-tqLIv1H4pbz5llxGHzK7kGTiqPt_Wv8Q/edit?usp=sharing)
+|Week 12| Unit 11| [Lecture](https://docs.google.com/presentation/d/1TpBg5A5ko7T-cjen9Dl3ovTgQ-0f71oaNOjojY8CRLI/edit?usp=sharing)
+|Week 13| Unit 12| [Lecture](https://docs.google.com/presentation/d/1TpBg5A5ko7T-cjen9Dl3ovTgQ-0f71oaNOjojY8CRLI/edit?usp=sharing)
 
 ## Group Projects
 |Group Name|Group Members|
 |:--------:|:-----------:|
 | Tripp | Rishi Talati, JD del Alamo, Mark Cheng |
 | [ParkSpace](https://github.com/codepath-group-2/ParkShare) | Saras Paudel, Michael Zetune, Jonathan Bautista |
-| [Pic-n-Ship](https://github.com/amandajackson21/Pic-N-Ship) | Shakkhar Biswas, Hailey Cassidy, Amanda Jackson |
+| [DoggyDuty](https://github.com/amandajackson21/Pic-N-Ship) | Hailey Cassidy, Amanda Jackson |
 | BurntOrange | Yangxinyu Xie, Maksat Zhazbayev, Ashley Bedford |
 | [Tempo](https://github.com/jasonstephen15/Tempo) | Jason Stephen, Joshua Iwe, Shriprama Rao |
 | [newsUT](https://github.com/newsut/newsUT) | Yash Kakodkar, Shawheen Attar, Akarsh Kumar |
 | [Blank Space](https://github.com/andrewhoang7/blankspace) | Andrew Hoang |
-
-
 
 
 ## Project Showcase
