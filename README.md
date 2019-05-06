@@ -44,6 +44,7 @@
 |Week 11| Unit 10| [Lecture](https://docs.google.com/presentation/d/1OOk-Nc9IDO-tqLIv1H4pbz5llxGHzK7kGTiqPt_Wv8Q/edit?usp=sharing)
 |Week 12| Unit 11| [Lecture](https://docs.google.com/presentation/d/1TpBg5A5ko7T-cjen9Dl3ovTgQ-0f71oaNOjojY8CRLI/edit?usp=sharing)
 |Week 13| Unit 12| [Lecture](https://docs.google.com/presentation/d/1TpBg5A5ko7T-cjen9Dl3ovTgQ-0f71oaNOjojY8CRLI/edit?usp=sharing)
+|Week 14| Unit 13| [Lecture](https://docs.google.com/presentation/d/14bGqIvEOxqlGStiFi82invN4odY_3E0a9vdWTlUtdXc/edit?usp=sharing)
 
 ## Group Projects
 |Group Name|Group Members|
